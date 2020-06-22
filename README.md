@@ -17,6 +17,11 @@ This application display weather information for the following cities super-impo
 * Google Maps API
 * Environment Canada Weather API
 
+## Requirements
+You need to have following programs installed on your local machine to run this application
+* npm
+* node
+
 ## How to build and run on the local machine
 
 **Step1** Clone the Github repository
@@ -24,7 +29,7 @@ This application display weather information for the following cities super-impo
 git clone https://github.com/Gurmeet-Sandhu/weather-app.git
 
 ```
-**Step2** Install dependencies in your terminal
+**Step2** Install dependencies
 
 ```
 npm install
