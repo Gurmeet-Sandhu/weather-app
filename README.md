@@ -24,8 +24,7 @@ This application display weather information for the following cities super-impo
 git clone https://github.com/Gurmeet-Sandhu/weather-app.git
 
 ```
-**Step2** Install dependencies 
-In your terminal, type:
+**Step2** Install dependencies in your terminal
 
 ```
 npm install
