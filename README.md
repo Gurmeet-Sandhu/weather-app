@@ -3,19 +3,19 @@
 ## About
 
 This application display weather information for the following cities super-imposed on the Google Maps.
-*Dease Lake
-*Fort Nelson
-*Terrace
-*Prince George
-*Whistler
-*Revelstoke
-*Creston
+* Dease Lake
+* Fort Nelson
+* Terrace
+* Prince George
+* Whistler
+* Revelstoke
+* Creston
 
 ## Technologies Used
 
-*Express
-*Google Maps API
-*Environment Canada Weather API
+* Express
+* Google Maps API
+* Environment Canada Weather API
 
 ## How to build and run on the local machine
 
