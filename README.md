@@ -28,6 +28,7 @@ Follow these steps to get an API key:
 **Step1** Go to the [Google Cloud Platform Console](https://cloud.google.com/console/google/maps-apis/overview)
 
 **Step2** Create a new project or select an existing project
+
 ![project](https://i.ibb.co/thtStmz/project.png)
 
 **Step3** Go to "API & Services" page and click "ENABLE API AND SERVICES"
