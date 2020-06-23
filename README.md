@@ -33,6 +33,8 @@ Follow these steps to get an API key:
 
 **Step3** Go to "API & Services" page and click "ENABLE API AND SERVICES"
 
+![services](https://i.ibb.co/VWsxmhj/services.png)
+
 **Step4** Search for Maps JavaScript API and enable the API
 
 ![javascript API image](https://i.ibb.co/PGxGdGM/api.png)
@@ -41,11 +43,6 @@ Follow these steps to get an API key:
 
 ![Credentials](https://i.ibb.co/GTHHYX3/credentials.png)
 
-**Step6** Create .env file in the root folder of you project after cloning the repository and create a variable API_KEY and assign your API key to this variable
-
-```
-API_KEY = YOUR_API_KEY
-```
 
 ## How to build and run on the local machine
 
@@ -54,13 +51,21 @@ API_KEY = YOUR_API_KEY
 git clone https://github.com/Gurmeet-Sandhu/weather-app.git
 
 ```
-**Step2** Install dependencies
+
+**Step2** Create .env file in the root folder of you project and create a variable API_KEY and assign your API key to this variable
+
+```
+API_KEY = YOUR_API_KEY
+```
+
+**Step3** Install dependencies
 
 ```
 npm install
 
 ```
-**Step3** Run application on your local machine
+
+**Step4** Run application on your local machine
 
 ```
 npm start
