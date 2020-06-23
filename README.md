@@ -27,7 +27,8 @@ Follow these steps to get an API key:
 
 **Step1** Go to the [Google Cloud Platform Console](https://cloud.google.com/console/google/maps-apis/overview)
 
-**Step2** Create or select an existing project
+**Step2** Create a new project or select an existing project
+![project](https://i.ibb.co/thtStmz/project.png)
 
 **Step3** Go to "API & Services" page and click "ENABLE API AND SERVICES"
 
@@ -39,7 +40,7 @@ Follow these steps to get an API key:
 
 ![Credentials](https://i.ibb.co/GTHHYX3/credentials.png)
 
-**Step6** Create .env file in the root folder of you project and create a variable API_KEY and assign your API key to this variable
+**Step6** Create .env file in the root folder of you project after cloning the repository and create a variable API_KEY and assign your API key to this variable
 
 ```
 API_KEY = YOUR_API_KEY
