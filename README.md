@@ -22,6 +22,20 @@ You need to have following programs installed on your local machine to run this 
 * npm
 * node
 
+## Get an API key
+Follow these steps to get an API key:
+**1** Go to the [Google Cloud Platform Console](https://cloud.google.com/console/google/maps-apis/overview)
+**2** Create or select an existing project
+**3** Go to "API & Services" page and click "ENABLE API AND SERVICES"
+**4** Search for Maps JavaScript API and enable the API
+![javascript API image](https://i.ibb.co/PGxGdGM/api.png)
+**5** On the Credential page, Get an API key
+![Credentials](https://i.ibb.co/GTHHYX3/credentials.png)
+**6** Create .env file in the root folder of you project and create a variable API_KEY and assign your API key to this variable
+```
+API_KEY = YOUR_API_KEY
+```
+
 ## How to build and run on the local machine
 
 **Step1** Clone the Github repository
